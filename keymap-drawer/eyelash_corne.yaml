@@ -21,7 +21,7 @@ layers:
   - F
   - G
   - $$mdi:arrow-left-bold$$
-  - $$mdi:apple-keyboard-control$$
+  - {t: \, s: '|'}
   - $$mdi:arrow-right-bold$$
   - H
   - J
