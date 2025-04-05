@@ -139,7 +139,7 @@
         raise_layer {
             display-name = "MOUSE";
             bindings = <
-&kp TILDE  &kp EXCL      &kp AT        &kp HASH  &kp DLLR  &kp PRCNT                                          &mmv MOVE_UP                     &kp CARET  &kp AMPS  &kp ASTRK  &kp LPAR  &kp RPAR  &kp BSPC
+&kp TILDE  &kp EXCL      &kp AT        &kp HASH  &kp DLLR  &kp PRCNT                                          &mmv MOVE_UP                     &kp CARET  &kp AMPS  &kp ASTRK  &kp LPAR  &kp RPAR  &kp ESC
 &kp F1     &kp F2        &kp F3        &kp F4    &kp F5    &kp F6                             &mmv MOVE_LEFT  &mkp MB3        &mmv MOVE_RIGHT  &kp F7     &kp F8    &kp F9     &kp F10   &kp F11   &kp F12
 &trans     &out OUT_USB  &out OUT_BLE  &none     &none     &kp PAGE_DOWN  &kp K_PLAY_PAUSE                    &mmv MOVE_DOWN                   &kp PG_UP  &trans    &trans     &trans    &trans    &trans
                                        &mkp MB1  &trans    &mkp MB2                                                                            &mkp MB4   &trans    &mkp MB5
